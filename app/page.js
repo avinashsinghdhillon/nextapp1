@@ -6,19 +6,19 @@ export default function Home() {
     <main className={styles.main}>
       <div className={styles.description}>
         <p>
-          Get started by editing&nbsp;
+          GTI Logistics Services is a freight broker dedicated to providing the best transportation service to our customers.&nbsp;
           <code className={styles.code}>app/page.js</code>
         </p>
         <div>
           <a
-            href="https://vercel.com?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
+            href="https://gtilogisticsservices.com"
             target="_blank"
             rel="noopener noreferrer"
           >
             By{' '}
             <Image
-              src="/vercel.svg"
-              alt="Vercel Logo"
+              src="/images/GTI_Main_Logo.jpg"
+              alt="GTI"
               className={styles.vercelLogo}
               width={100}
               height={24}
@@ -31,10 +31,10 @@ export default function Home() {
       <div className={styles.center}>
         <Image
           className={styles.logo}
-          src="/next.svg"
-          alt="Next.js Logo"
-          width={180}
-          height={37}
+          src="/images/Banner_1.jpg"
+          alt="GTI Logo"
+          width={280}
+          height={137}
           priority
         />
       </div>
